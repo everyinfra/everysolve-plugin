@@ -1,0 +1,34 @@
+{
+  "repository": "everyinfra/everysolve-plugin",
+  "visibility": "public",
+  "publicationStatus": "authorized-initial-publication",
+  "plugin": "everysolve",
+  "skill": "everysolve",
+  "displayName": "EverySolve",
+  "description": "EverySolve authorized captcha integration skill for Codex and Claude Code. Discover MCP challenge types, preserve session context and handle the actual solution format.",
+  "homepage": "https://everyinfra.com",
+  "topics": [
+    "everyinfra",
+    "agent-plugin",
+    "captcha",
+    "authorized-testing",
+    "mcp",
+    "challenge-response",
+    "browser-automation",
+    "codex",
+    "claude-code",
+    "agent-skills"
+  ],
+  "searchIntent": "Captcha workflow integration for authorized browser automation",
+  "readmeTitle": "EverySolve — Authorized captcha workflows with discovered challenge schemas",
+  "keywordResearch": "Qualitative intent mapping; no search volume, difficulty or ranking estimates.",
+  "transport": "mcp",
+  "version": "0.1.0",
+  "source": {
+    "repository": "everyinfra/everyinfra-agent-plugins",
+    "commit": "78d3fd694244529e5062c51006fc10ef0de9dc87",
+    "path": "plugins/everyinfra/skills/everysolve/SKILL.md",
+    "sha256": "65d6cfcb5b69c775e75b47c10f37b278814fb249d16a5d200dcebd30825e933c"
+  },
+  "definition": "EverySolve is a standalone EveryInfra agent skill for authorized captcha integration through MCP. It discovers the supported challenge schema and solution shape, preserves required session context and separates a solver response from acceptance by the target application."
+}

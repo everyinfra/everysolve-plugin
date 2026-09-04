@@ -1,0 +1,25 @@
+{
+  "name": "everysolve",
+  "version": "0.1.0",
+  "description": "EverySolve authorized captcha integration skill for Codex and Claude Code. Discover MCP challenge types, preserve session context and handle the actual solution format.",
+  "author": {
+    "name": "EveryInfra",
+    "url": "https://everyinfra.com"
+  },
+  "homepage": "https://api.everyinfra.com/docs",
+  "repository": "https://github.com/everyinfra/everysolve-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "everyinfra",
+    "agent-plugin",
+    "captcha",
+    "authorized-testing",
+    "mcp",
+    "challenge-response",
+    "browser-automation",
+    "codex",
+    "claude-code",
+    "agent-skills"
+  ],
+  "skills": "./skills/"
+}

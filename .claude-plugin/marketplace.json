@@ -1,0 +1,16 @@
+{
+  "name": "everysolve-plugin",
+  "owner": {
+    "name": "EveryInfra",
+    "url": "https://everyinfra.com"
+  },
+  "plugins": [
+    {
+      "name": "everysolve",
+      "source": "./plugins/everysolve",
+      "description": "EverySolve authorized captcha integration skill for Codex and Claude Code. Discover MCP challenge types, preserve session context and handle the actual solution format.",
+      "version": "0.1.0"
+    }
+  ],
+  "description": "EverySolve authorized captcha integration skill for Codex and Claude Code. Discover MCP challenge types, preserve session context and handle the actual solution format."
+}

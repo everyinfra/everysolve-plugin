@@ -1,0 +1,16 @@
+# EverySolve
+
+> EverySolve is a standalone EveryInfra agent skill for authorized captcha integration through MCP. It discovers the supported challenge schema and solution shape, preserves required session context and separates a solver response from acceptance by the target application.
+
+This is a documentation navigation index, not a ranking or model-ingestion guarantee.
+
+## Documentation
+
+- [Overview](README.md): use cases, limits and FAQ.
+- [简体中文](README.zh-CN.md): Chinese introduction and safe starting point.
+- [Setup](docs/setup.md): host installation and service prerequisites.
+- [Workflow](docs/workflow.md): execution and acceptance criteria.
+- [Prompts](examples/prompts.md): illustrative bounded requests.
+- [Security](SECURITY.md): permissions and secret handling.
+
+- [Capability reference](docs/reference.md): identity, scope, prerequisites and evidence sources.
