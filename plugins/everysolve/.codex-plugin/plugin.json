@@ -37,9 +37,9 @@
     "privacyPolicyURL": "https://everyinfra.com/privacy",
     "termsOfServiceURL": "https://everyinfra.com/terms",
     "brandColor": "#287A73",
-    "composerIcon": "./assets/icon.svg",
-    "logo": "./assets/logo.svg",
-    "logoDark": "./assets/logo-dark.svg",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon.png",
     "defaultPrompt": [
       "For this site that I administer, inspect the supported challenge types and list required inputs. Do not solve anything yet.",
       "Review this authorized integration: explain whether the returned solution is a token, cookie or another shape and how that affects the next step.",

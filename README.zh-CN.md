@@ -1,5 +1,8 @@
 # EverySolve：授权验证码流程
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EverySolve：授权验证码流程，题型现查现用" src="assets/banner-zh.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">

@@ -1,5 +1,8 @@
 # EverySolve — Flujos de CAPTCHA autorizados con el esquema descubierto en vivo
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EverySolve — Flujos de CAPTCHA autorizados con el esquema descubierto en vivo" src="assets/banner-es.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
